@@ -7,7 +7,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/pS0M8Oa.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kariyugan" src="https://img.shields.io/badge/Kariyugan-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
